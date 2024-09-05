@@ -1,1 +1,1 @@
-Refer to Technical Guide
+Refer to Technical Report
